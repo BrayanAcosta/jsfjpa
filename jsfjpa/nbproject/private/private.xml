@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Brayan/Documents/NetBeansProjects/jsfjpa/src/java/com/jsfjpa/dao/ITipoDocumentoDao.java</file>
+            <file>file:/C:/Users/Brayan/Documents/NetBeansProjects/jsfjpa/src/java/com/jsfjpa/dao/TipoDocumentoDaoImpl.java</file>
+            <file>file:/C:/Users/Brayan/Documents/NetBeansProjects/jsfjpa/src/java/com/jsfjpa/validator/PersonaValidator.java</file>
+            <file>file:/C:/Users/Brayan/Documents/NetBeansProjects/jsfjpa/web/paginas/ingresar.xhtml</file>
+            <file>file:/C:/Users/Brayan/Documents/NetBeansProjects/jsfjpa/web/resources/js/form/validation.js</file>
+            <file>file:/C:/Users/Brayan/Documents/NetBeansProjects/jsfjpa/web/index.xhtml</file>
+            <file>file:/C:/Users/Brayan/Documents/NetBeansProjects/jsfjpa/src/java/com/jsfjpa/bo/PersonasBoImpl.java</file>
+            <file>file:/C:/Users/Brayan/Documents/NetBeansProjects/jsfjpa/src/java/com/jsfjpa/model/Personas.java</file>
+            <file>file:/C:/Users/Brayan/Documents/NetBeansProjects/jsfjpa/src/java/com/jsfjpa/dao/PersonaDaoImpl.java</file>
+            <file>file:/C:/Users/Brayan/Documents/NetBeansProjects/jsfjpa/src/java/com/jsfjpa/model/TiposDocumento.java</file>
+            <file>file:/C:/Users/Brayan/Documents/NetBeansProjects/jsfjpa/web/paginas/actualizar.xhtml</file>
+            <file>file:/C:/Users/Brayan/Documents/NetBeansProjects/jsfjpa/src/java/com/jsfjpa/bo/IPersonasBo.java</file>
+            <file>file:/C:/Users/Brayan/Documents/NetBeansProjects/jsfjpa/src/java/com/jsfjpa/mapper/PersonaMapper.java</file>
+            <file>file:/C:/Users/Brayan/Documents/NetBeansProjects/jsfjpa/src/java/com/jsfjpa/bean/PersonaBean.java</file>
+            <file>file:/C:/Users/Brayan/Documents/NetBeansProjects/jsfjpa/web/resources/css/bootstrap.css</file>
+            <file>file:/C:/Users/Brayan/Documents/NetBeansProjects/jsfjpa/src/java/com/jsfjpa/mapper/TipoDocumentoMapper.java</file>
+            <file>file:/C:/Users/Brayan/Documents/NetBeansProjects/jsfjpa/src/java/com/jsfjpa/dao/IPersonaDao.java</file>
+        </group>
+    </open-files>
+</project-private>
